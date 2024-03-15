@@ -1,5 +1,6 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
-
+### Reg.no: 212222240110
+### Name: Thiyagarajan A
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
